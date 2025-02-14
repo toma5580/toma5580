@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Martine Kingi
+- 👋 Hi, I’m Martin Kingi
 - 👀 I’m interested in coding and programming concepts
 - 🌱 I’m a fullstack  software developer and cyber security specialist
 - 💞️ I’m looking to collaborate on cyber security issues and software development ...
